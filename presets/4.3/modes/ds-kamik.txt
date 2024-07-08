@@ -1,0 +1,30 @@
+#$ TITLE: Drone Souls 4.3 Modes for TX12 Kamikadze
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: MODES
+#$ STATUS: PRIVATE
+#$ KEYWORDS: defaults, reset, mode, modes, aux, switch
+#$ AUTHOR: Krym
+#$ DESCRIPTION: Sets channels to default TX12 layout
+
+# aux switch settings
+
+aux 0 0 0 1700 2100 0 0
+aux 1 1 1 900 1300 0 0
+aux 2 2 1 1300 1700 0 0
+aux 3 13 4 1700 2100 0 0
+aux 4 0 0 900 900 0 0
+aux 5 0 0 900 900 0 0
+aux 6 0 0 900 900 0 0
+aux 7 0 0 900 900 0 0
+aux 8 0 0 900 900 0 0
+aux 9 0 0 900 900 0 0
+aux 10 0 0 900 900 0 0
+aux 11 0 0 900 900 0 0
+aux 12 0 0 900 900 0 0
+aux 13 0 0 900 900 0 0
+aux 14 0 0 900 900 0 0
+aux 15 0 0 900 900 0 0
+aux 16 0 0 900 900 0 0
+aux 17 0 0 900 900 0 0
+aux 18 0 0 900 900 0 0
+aux 19 0 0 900 900 0 0
