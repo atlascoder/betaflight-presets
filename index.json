@@ -136,6 +136,7 @@
       "3.5",
       "4.2",
       "4.3",
+      "4.35",
       "4.4",
       "4.5"
     ],
@@ -300,6 +301,7 @@
       "blackbox",
       "BMS",
       "BMSThomas",
+      "bomber",
       "botgrinder",
       "brushless",
       "Caddx",
@@ -400,6 +402,7 @@
       "jhemcu",
       "juicy",
       "justice",
+      "kamik",
       "karate",
       "KarateBrot",
       "kim",
@@ -920,7 +923,7 @@
     },
     {
       "fullPath": "presets/4.3/modes/ds-kamik.txt",
-      "hash": "35db4ed1bfb4a0e963536d2eb9457fbd915792e41cf742b4293ec1f23407304e",
+      "hash": "7cb4b9bd34ee95396854e6fd5d9f837c8c539bac7d53389c9e7a5f9a3188c114",
       "title": "Drone Souls 4.3 Modes for TX12 Kamikadze",
       "firmware_version": [
         "4.3"
@@ -1133,6 +1136,26 @@
         "sugarK"
       ],
       "author": "sugarK",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/other/drop_led_strip.txt",
+      "hash": "601d6504b99785e1cc473a003450e5b4ee249a2e8db30c8f2780c3e8c3441fb3",
+      "title": "Drone Souls Hobby Mania F405 Modes Boom/Drop TX12 Kamikadze",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.35"
+      ],
+      "category": "MODES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "aux",
+        "switch",
+        "kamik",
+        "mode"
+      ],
+      "author": "Krym",
       "priority": 0
     },
     {
@@ -3376,6 +3399,31 @@
         "akk",
         "dominator",
         "fx2"
+      ],
+      "author": "Sartor",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.3/vtx/AKK_FX2_Dominator_2W_DS.txt",
+      "hash": "98c4e2bdab3eb641eb61e95aa337d51c99d28f2762fc4507e37652416ce212ca",
+      "title": "AKK FX2-Dominator +X,L bands, power switch",
+      "firmware_version": [
+        "4.2",
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "vtx",
+        "vtx table",
+        "vtxtable",
+        "akk",
+        "dominator",
+        "fx2",
+        "kamik",
+        "bomber"
       ],
       "author": "Sartor",
       "priority": 1000000

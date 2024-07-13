@@ -1,10 +1,12 @@
-#$ TITLE: Drone Souls 4.3 Modes for TX12 Kamikadze
+#$ TITLE: Drone Souls Hobby Mania F405 Modes Boom/Drop TX12 Kamikadze
 #$ FIRMWARE_VERSION: 4.3
+#$ FIRMWARE_VERSION: 4.4
+#$ FIRMWARE_VERSION: 4.35
 #$ CATEGORY: MODES
 #$ STATUS: COMMUNITY
-#$ KEYWORDS: defaults, reset, mode, modes, aux, switch
+#$ KEYWORDS: aux, switch, kamik, mode
 #$ AUTHOR: Krym
-#$ DESCRIPTION: Sets channels to default TX12 layout
+#$ DESCRIPTION: SF керує підривом, контакт LED на платі керуеється режимом USER1
 
 # aux switch settings
 
