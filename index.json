@@ -3475,6 +3475,29 @@
       "priority": 1000000
     },
     {
+      "fullPath": "presets/4.3/vtx/DS_OSD.txt",
+      "hash": "4954a6df797c1f496d57cd4ac591398896ac5f661ce41ccf497eb02aed5ff796",
+      "title": "Drone Souls OSD",
+      "firmware_version": [
+        "*"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "vtx",
+        "vtx table",
+        "vtxtable",
+        "akk",
+        "dominator",
+        "fx2",
+        "kamik",
+        "bomber",
+        "osd"
+      ],
+      "author": "Krym",
+      "priority": 1000000
+    },
+    {
       "fullPath": "presets/4.3/vtx/DS_VTX_LEVEL.txt",
       "hash": "506436e9b1a250fb2d05eac42e8b8fa59da673a61ab96591dbb8e6ca1f6e545b",
       "title": "Drone Souls VTX Power switch via AUX3",
