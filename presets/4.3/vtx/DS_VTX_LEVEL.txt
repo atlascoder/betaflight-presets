@@ -1,18 +1,10 @@
 #$ TITLE: Drone Souls VTX Power switch via AUX3
-#$ FIRMWARE_VERSION: 4.2
-#$ FIRMWARE_VERSION: 4.3
-#$ FIRMWARE_VERSION: 4.4
-#$ FIRMWARE_VERSION: 4.5
+#$ FIRMWARE_VERSION: *
 #$ CATEGORY: VTX
 #$ STATUS: COMMUNITY
 #$ KEYWORDS:  vtx, vtx table, vtxtable, akk, dominator, fx2, kamik, bomber
 #$ AUTHOR: Krym
 #$ DESCRIPTION: VTX changing power via AUX3
-#$ DESCRIPTION: Link to product manufacturer: https://www.akktek.com/products/vtx/fx2-dominator.html
-#$ DISCLAIMER: All previous VTX Table settings will be reset.
-#$ INCLUDE_DISCLAIMER: misc/disclaimer/en/vtxtable.txt
-
-#$ INCLUDE: presets/4.3/vtx/defaults_vtx_tables.txt
 
 #$ OPTION_GROUP BEGIN: VTX levels count
 
