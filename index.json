@@ -3474,6 +3474,31 @@
       "priority": 1000000
     },
     {
+      "fullPath": "presets/4.3/vtx/DS_VTX_LEVEL.txt",
+      "hash": "d32d2b74003428d905cdca2ccbd524c60b898dbb53c84415b4fec618717b1e6a",
+      "title": "AKK FX2-Dominator +X,L bands, power switch",
+      "firmware_version": [
+        "4.2",
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "VTX",
+      "status": "COMMUNITY",
+      "keywords": [
+        "vtx",
+        "vtx table",
+        "vtxtable",
+        "akk",
+        "dominator",
+        "fx2",
+        "kamik",
+        "bomber"
+      ],
+      "author": "Krym",
+      "priority": 1000000
+    },
+    {
       "fullPath": "presets/4.3/vtx/Eachine_Nano_V2.txt",
       "hash": "5ac593eb1b74dd1b8482923b91056d0d1cda2d38e92e4590116e45df939decc4",
       "title": "Eachine Nano V2 VTX Table",

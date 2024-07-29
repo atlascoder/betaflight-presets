@@ -1,0 +1,42 @@
+#$ TITLE: AKK FX2-Dominator +X,L bands, power switch
+#$ FIRMWARE_VERSION: 4.2
+#$ FIRMWARE_VERSION: 4.3
+#$ FIRMWARE_VERSION: 4.4
+#$ FIRMWARE_VERSION: 4.5
+#$ CATEGORY: VTX
+#$ STATUS: COMMUNITY
+#$ KEYWORDS:  vtx, vtx table, vtxtable, akk, dominator, fx2, kamik, bomber
+#$ AUTHOR: Krym
+#$ DESCRIPTION: VTX changing power via AUX3
+#$ DESCRIPTION: Link to product manufacturer: https://www.akktek.com/products/vtx/fx2-dominator.html
+#$ DISCLAIMER: All previous VTX Table settings will be reset.
+#$ INCLUDE_DISCLAIMER: misc/disclaimer/en/vtxtable.txt
+
+#$ INCLUDE: presets/4.3/vtx/defaults_vtx_tables.txt
+
+#$ OPTION_GROUP BEGIN: VTX levels count
+
+    #$ OPTION BEGIN (UNCHECKED): 3
+        vtx 0 2 0 0 1 900 1300
+        vtx 1 2 0 0 2 1300 1700
+        vtx 2 2 0 0 3 1700 2100
+    #$ OPTION END
+
+    #$ OPTION BEGIN (UNCHECKED): 4
+        vtx 0 2 0 0 1 900 1200
+        vtx 1 2 0 0 2 1200 1500
+        vtx 2 2 0 0 3 1500 1800
+        vtx 3 2 0 0 4 1800 2100
+    #$ OPTION END
+
+    #$ OPTION BEGIN (UNCHECKED): 5
+        vtx 0 2 0 0 1 900 1100
+        vtx 1 2 0 0 2 1100 1400
+        vtx 2 2 0 0 3 1400 1600
+        vtx 3 2 0 0 4 1600 1900
+        vtc 4 2 0 0 5 1900 2100
+    #$ OPTION END
+
+#$ OPTION_GROUP END
+
+
