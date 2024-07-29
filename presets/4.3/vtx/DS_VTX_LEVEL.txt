@@ -1,4 +1,4 @@
-#$ TITLE: AKK FX2-Dominator +X,L bands, power switch
+#$ TITLE: Drone Souls VTX Power switch via AUX3
 #$ FIRMWARE_VERSION: 4.2
 #$ FIRMWARE_VERSION: 4.3
 #$ FIRMWARE_VERSION: 4.4

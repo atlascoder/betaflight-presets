@@ -3475,8 +3475,8 @@
     },
     {
       "fullPath": "presets/4.3/vtx/DS_VTX_LEVEL.txt",
-      "hash": "d32d2b74003428d905cdca2ccbd524c60b898dbb53c84415b4fec618717b1e6a",
-      "title": "AKK FX2-Dominator +X,L bands, power switch",
+      "hash": "7be4bea3da5c8abf626e830a78e69901e88aa43dc5878676fafb12326b2172a5",
+      "title": "Drone Souls VTX Power switch via AUX3",
       "firmware_version": [
         "4.2",
         "4.3",
