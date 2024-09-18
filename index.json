@@ -3499,7 +3499,7 @@
     },
     {
       "fullPath": "presets/4.3/vtx/DS_VTX_LEVEL.txt",
-      "hash": "506436e9b1a250fb2d05eac42e8b8fa59da673a61ab96591dbb8e6ca1f6e545b",
+      "hash": "cd8ebd508ea4070d5daa195624b6454616803b939f62bd5265444776e1d527d6",
       "title": "Drone Souls VTX Power switch via AUX3",
       "firmware_version": [
         "*"
